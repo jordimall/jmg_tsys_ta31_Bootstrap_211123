@@ -1,0 +1,16 @@
+.material-symbols-outlined {
+    font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+
+.blog-post {
+    margin-bottom: 4rem;
+}
+
+.blog-post-meta {
+    margin-bottom: 1.25rem;
+    color: #727272;
+}
+
+.enlaces-decoration-none{
+    text-decoration: none;
+}
