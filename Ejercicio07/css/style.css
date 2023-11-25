@@ -1,0 +1,28 @@
+.h-full{
+    height: 65vh;
+}
+
+.img-profile {
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.icons{
+    color: white;
+}
+
+.size-clamp{
+    font-size: clamp(1rem, -2rem + 8.3333vw, 2rem);
+}
+
+.list-main {
+    list-style: square url(../img/flecha-correcta.png) inside;
+}
+
+#header{
+    background-image: url('../img/Fondo.png');
+    background-size: cover;
+    color: white;
+}
